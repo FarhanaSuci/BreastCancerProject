@@ -23,6 +23,16 @@ classification system that supports clinicians in making early and accurate deci
 
 ---
 
+
+## 🏗 Project Framework
+
+The Project Framework of the AI-automated InsighX : Breast Cancer Diagnostic is shown below:
+
+![Project Architecture](ProjectArchitecture.png)
+
+
+---
+
 ##  Methodology Summary
 We evaluated several **ensemble classifiers**, including **AdaBoost, LightGBM, XGBoost, 
 CatBoost, and Random Forest**. 
