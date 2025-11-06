@@ -1,6 +1,6 @@
-# 🩺 Breast Cancer Diagnostic — Machine Learning Framework
+#  Breast Cancer Diagnostic — Machine Learning Framework
 
-## 📖 Project Overview
+##  Project Overview
 The early and accurate diagnosis of breast cancer is a crucial aspect of reducing mortality 
 and improving treatment outcomes among women. This project leverages the **Breast Cancer 
 Diagnostic dataset**, derived from fine needle aspirate (FNA) of breast masses, to develop a 
@@ -12,18 +12,18 @@ classification system that supports clinicians in making early and accurate deci
 
 ---
 
-## ⚙️ Key Features
-- 🧠 **Machine Learning Framework** for breast cancer diagnosis using ensemble algorithms.  
-- 🧩 **Feature Selection & Dimensionality Reduction** using PCA, Forward Selection (FS),  
+##  Key Features
+-  **Machine Learning Framework** for breast cancer diagnosis using ensemble algorithms.  
+-  **Feature Selection & Dimensionality Reduction** using PCA, Forward Selection (FS),  
   mRMR, and RFE.  
-- 🚀 **Model Optimization** via grid and randomized search with cross-validation.  
-- 📊 **Best Performing Models:** XGBoost and CatBoost combined with Forward Selection.  
-- 💡 **Explainable AI (XAI)** using SHAP for interpreting model predictions.  
-- 👩‍⚕️ **Clinician-Oriented Insight:** Enables transparent, trustworthy medical decision-making.
+-  **Model Optimization** via grid and randomized search with cross-validation.  
+-  **Best Performing Models:** XGBoost and CatBoost combined with Forward Selection.  
+-  **Explainable AI (XAI)** using SHAP for interpreting model predictions.  
+-  **Clinician-Oriented Insight:** Enables transparent, trustworthy medical decision-making.
 
 ---
 
-## 🧪 Methodology Summary
+##  Methodology Summary
 We evaluated several **ensemble classifiers**, including **AdaBoost, LightGBM, XGBoost, 
 CatBoost, and Random Forest**. 
 
@@ -36,7 +36,7 @@ and **Randomized Search CV** with stratified cross-validation to ensure optimal 
 
 ---
 
-## 🎯 Results
+##  Results
 Experimental results indicate that **XGBoost** and **CatBoost classifiers**, when integrated 
 with **Forward Selection**, achieved the highest classification accuracy. To ensure model 
 interpretability, a **SHAP-based explainable model** was incorporated, enabling transparent 
@@ -50,5 +50,4 @@ improving both the accuracy and reliability of breast cancer diagnosis.
 ---
 
   
-*Department of Computer Science & Engineering, Jagannath University*  
-📧 [your.email@example.com]  
+
