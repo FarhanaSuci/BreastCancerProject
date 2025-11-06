@@ -38,7 +38,7 @@ and **Randomized Search CV** with stratified cross-validation to ensure optimal 
 
 ##  Results
 Experimental results indicate that **XGBoost** and **CatBoost classifiers**, when integrated 
-with **Forward Selection**, achieved the highest classification accuracy. To ensure model 
+with **Forward Selection**, achieved the highest classification accuracy 98.25% with 5 features. To ensure model 
 interpretability, a **SHAP-based explainable model** was incorporated, enabling transparent 
 understanding of feature contributions.
 
