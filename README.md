@@ -28,7 +28,7 @@ classification system that supports clinicians in making early and accurate deci
 
 The Project Framework of the AI-automated InsighX : Breast Cancer Diagnostic is shown below:
 
-![Project Architecture](ProjectFrameWork1.png)
+![Project Architecture](ProjectFrameWork2.png)
 
 
 ---
